@@ -1,3 +1,10 @@
+---
+shortname: "pen-action Explainer"
+issue_tag: "Pen Action"
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # pen-action Explainer
 
 ## Status of this Document

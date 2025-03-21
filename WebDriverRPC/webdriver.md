@@ -1,3 +1,10 @@
+---
+shortname: "Bidirectional WebDriver Protocol"
+issue_tag: ""
+status: "archived"
+venue: "[WebDriver incubator of the W3C Browser Testing and Tools Working Group](https://github.com/w3c/webdriver/blob/master/README.md)"
+---
+
 # Bidirectional WebDriver Protocol
 
 ## Status of this Document

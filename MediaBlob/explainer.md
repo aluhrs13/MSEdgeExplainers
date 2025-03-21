@@ -1,3 +1,10 @@
+---
+shortname: "Improved client side video editing"
+issue_tag: "MediaBlob"
+status: "archived"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/) | [WICG/video-editing](https://github.com/WICG/video-editing) | ![GitHub issues](https://img.shields.io/github/issues/WICG/video-editing)"
+---
+
 # Improved client side video editing
 
 By: Yash Khandelwal & Greg Whitworth

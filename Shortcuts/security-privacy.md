@@ -1,3 +1,8 @@
+---
+shortname: "Answers to [Security and Privacy Questionnaire](https://www.w3.org/TR/security-privacy-questionnaire/)"
+status: "unlisted"
+---
+
 # Answers to [Security and Privacy Questionnaire](https://www.w3.org/TR/security-privacy-questionnaire/)
 
 ### 2.1 What information might this feature expose to Web sites or other parties, and for what purposes is that exposure necessary?

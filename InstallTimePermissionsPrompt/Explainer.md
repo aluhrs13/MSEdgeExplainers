@@ -1,3 +1,10 @@
+---
+shortname: "First Run Permissions Prompt Explainer"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # First Run Permissions Prompt Explainer
 
 Authors:

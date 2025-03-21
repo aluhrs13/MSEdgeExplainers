@@ -1,3 +1,8 @@
+---
+shortname: "2. Questions to Consider"
+status: "unlisted"
+---
+
 Questions from https://www.w3.org/TR/security-privacy-questionnaire/
 
 # 2. Questions to Consider

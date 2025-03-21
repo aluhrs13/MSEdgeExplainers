@@ -1,3 +1,10 @@
+---
+shortname: "Call stacks in crash reports from unresponsive web pages"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Performance WG](https://www.w3.org/webperf/)"
+---
+
 # Call stacks in crash reports from unresponsive web pages
 
 ## Authors: 

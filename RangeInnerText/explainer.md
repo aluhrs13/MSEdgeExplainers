@@ -1,3 +1,10 @@
+---
+shortname: "Range enhancements for advanced editing scenarios"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Range enhancements for advanced editing scenarios
 
 

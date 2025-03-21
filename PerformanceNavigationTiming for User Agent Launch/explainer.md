@@ -1,3 +1,10 @@
+---
+shortname: "Enabling Web Applications to understand bimodal performance timings"
+issue_tag: "Performance"
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Enabling Web Applications to understand bimodal performance timings
 
 The purpose of this document is to propose changes to the [Performance Navigation Timing API](https://w3c.github.io/navigation-timing/#dom-performancenavigationtiming) allowing website owners to understand how the performance of their applications is impacted by causes of entropy on a user machine (e.g. cold start, system load, etc.) without providing an additional fingerprinting surface.

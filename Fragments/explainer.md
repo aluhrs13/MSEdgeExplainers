@@ -1,3 +1,10 @@
+---
+shortname: "Arbitrary Text Fragments"
+issue_tag: "Text Fragments"
+status: "withdrawn"
+venue: ""
+---
+
 # Arbitrary Text Fragments
 
 Authors: [Aaron Gustafson](https://github.com/aarongustafson)

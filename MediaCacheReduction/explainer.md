@@ -1,3 +1,8 @@
+---
+shortname: "Improving Battery Life by Avoiding Unnecessary Media Caching"
+status: "unlisted"
+---
+
 # Improving Battery Life by Avoiding Unnecessary Media Caching
 **Author:** Shawn Pickett
 ## Summary Description

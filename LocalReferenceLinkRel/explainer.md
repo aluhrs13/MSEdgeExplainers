@@ -1,3 +1,10 @@
+---
+shortname: "Local References In <link> Tags"
+issue_tag: "LRLR"
+status: "active"
+venue: "[WHAT Working Group](https://whatwg.org/)"
+---
+
 # Local References In `<link>` Tags
 
 ## Authors

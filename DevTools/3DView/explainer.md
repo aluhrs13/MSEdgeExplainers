@@ -1,3 +1,10 @@
+---
+shortname: "Update 3D View"
+issue_tag: ""
+status: "archived"
+venue: ""
+---
+
 # Update 3D View
 
 Authors: [Erica Draud](https://github.com/erdraud)

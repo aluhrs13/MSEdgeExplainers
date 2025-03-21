@@ -1,3 +1,8 @@
+---
+shortname: "Synthetic Modules Design Document"
+status: "unlisted"
+---
+
 # Synthetic Modules Design Document
 
 ## Contact emails

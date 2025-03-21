@@ -1,3 +1,10 @@
+---
+shortname: "Installed Web App window title (application-title)"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Installed Web App window title (`application-title`)
 ***(formerly HTML Document Subtitle)***
 

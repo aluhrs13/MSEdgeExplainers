@@ -1,3 +1,8 @@
+---
+shortname: "clipboardchange event API explainer"
+status: "unlisted"
+---
+
 # clipboardchange event API explainer
 
 ## Authors:

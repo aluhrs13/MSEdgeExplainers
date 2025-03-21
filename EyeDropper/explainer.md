@@ -1,3 +1,10 @@
+---
+shortname: "EyeDropper API"
+issue_tag: ""
+status: "archived"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/) | [WICG/eyedropper-api](https://github.com/WICG/eyedropper-api) | ![GitHub issues](https://img.shields.io/github/issues/WICG/eyedropper-api)"
+---
+
 # EyeDropper API 
 Authors: [Sidhika Tripathee](https://github.com/t-sitri), [McKinna Estridge](https://github.com/t-saestr), [Sammy Hannat](https://github.com/samhannat)
 

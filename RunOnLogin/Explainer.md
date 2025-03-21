@@ -1,3 +1,10 @@
+---
+shortname: "Run on OS Login"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Run on OS Login
 Authors: [Carlos Frias](https://github.com/carlosfriasand), [Jungkee Song](https://github.com/jungkees)
 

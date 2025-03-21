@@ -1,3 +1,10 @@
+---
+shortname: "Virtual Keyboard Control"
+issue_tag: ""
+status: "archived"
+venue: "[W3C Editing Working Group](https://w3c.github.io/editing/)"
+---
+
 # Virtual Keyboard Control
 
 **Note - this proposal extends the scope of [VirtualKeyboard Interface](https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/VirtualKeyboardAPI/explainer.md)**

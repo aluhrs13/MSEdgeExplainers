@@ -1,3 +1,10 @@
+---
+shortname: "CSS Anchored Positioning"
+issue_tag: ""
+status: "obsolete"
+venue: "[W3C CSS Working Group](https://www.w3.org/Style/CSS/) | [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)"
+---
+
 # CSS Anchored Positioning
 
 Authors:

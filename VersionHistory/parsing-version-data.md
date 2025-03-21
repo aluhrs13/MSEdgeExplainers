@@ -1,3 +1,8 @@
+---
+shortname: "Parsing Version History from RSS, Atom & JSON Feeds"
+status: "unlisted"
+---
+
 # Parsing Version History from RSS, Atom & JSON Feeds
 
 When version histories are supplied using structured formats like [RSS](https://validator.w3.org/feed/docs/rss2.html), [Atom](https://tools.ietf.org/html/rfc4287), or [JSON Feed](https://jsonfeed.org/), implementors will need to parse that data and render it into a web page. This document suggests how that should be done, with a focus on key fields for each history item.

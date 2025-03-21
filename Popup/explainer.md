@@ -1,3 +1,10 @@
+---
+shortname: "Enabling Popups"
+issue_tag: ""
+status: "archived"
+venue: "[Open UI Community Group](https://www.w3.org/community/open-ui/)"
+---
+
 # Enabling Popups
 
 Authors:

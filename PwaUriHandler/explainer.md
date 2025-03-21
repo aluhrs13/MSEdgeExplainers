@@ -1,3 +1,10 @@
+---
+shortname: "PWAs as URL Handlers"
+issue_tag: ""
+status: "archived"
+venue: "[W3C Web Incubator Community Group](https://github.com/WICG/pwa-url-handler)"
+---
+
 # PWAs as URL Handlers
 
 Authors: [Lu Huang](https://github.com/LuHuangMSFT) &lt;luhua@microsoft.com&gt;

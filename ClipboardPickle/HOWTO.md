@@ -1,3 +1,8 @@
+---
+shortname: "How to use the Async Clipboard API to read and write unsanitized HTML"
+status: "unlisted"
+---
+
 # How to use the Async Clipboard API to read and write unsanitized HTML
 **Last updated: March, 2023**
 

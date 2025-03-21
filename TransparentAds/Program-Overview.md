@@ -1,3 +1,8 @@
+---
+shortname: "Transparent Ads Introduction"
+status: "unlisted"
+---
+
 # Transparent Ads Introduction 
 Transparent ads have been designed to raise the bar on transparency and control with new privacy standards for personalized ads on the web. With transparent ads, Microsoft Edge will be able to show people what personal data is collected as they browse, who has access to it, and which ads are personalized because of it. People can understand why they’re seeing specific ads and where they came from.
 

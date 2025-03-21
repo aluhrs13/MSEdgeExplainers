@@ -1,3 +1,10 @@
+---
+shortname: "Audio Stream Category"
+issue_tag: ""
+status: "active"
+venue: "[W3C mst-content-hint](https://w3c.github.io/mst-content-hint/)"
+---
+
 # Audio Stream Category
 Authors: [Sam Dallstream](https://github.com/sjdallst), [Greg Whitworth](https://github.com/gregwhitworth), [Rahul Singh](https://github.com/rahulsingh-msft)
 

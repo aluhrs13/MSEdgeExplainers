@@ -1,3 +1,10 @@
+---
+shortname: "DevTools: Focus Mode UI"
+issue_tag: ""
+status: "archived"
+venue: ""
+---
+
 # DevTools: Focus Mode UI
 
 ## Status of this Document

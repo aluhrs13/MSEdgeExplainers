@@ -1,3 +1,10 @@
+---
+shortname: "Password reveal: an explainer"
+issue_tag: "Password Reveal"
+status: "withdrawn"
+venue: ""
+---
+
 # Password reveal: an explainer
 
 **Authors:** Bo Cupp, Alex Keng, Greg Whitworth

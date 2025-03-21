@@ -1,3 +1,8 @@
+---
+shortname: "AudioContext Interrupted State"
+status: "unlisted"
+---
+
 # AudioContext Interrupted State
 
 ## Authors:

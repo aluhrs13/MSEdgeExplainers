@@ -1,3 +1,10 @@
+---
+shortname: "Time-limited Permissions Explainer"
+issue_tag: "Time-limited Permissions"
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Time-limited Permissions Explainer
 
 Authors: [Aaron Gustafson](https://github.com/aarongustafson)

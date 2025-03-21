@@ -1,3 +1,10 @@
+---
+shortname: "Declarative shadow DOM style sharing"
+issue_tag: "DeclarativeShadowDOMStyleSharing"
+status: "active"
+venue: "[Web Components CG](https://w3c.github.io/webcomponents-cg/)"
+---
+
 # Declarative shadow DOM style sharing
 
 ## Authors

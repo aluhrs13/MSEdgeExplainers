@@ -1,3 +1,8 @@
+---
+shortname: "Open Issues"
+status: "unlisted"
+---
+
 ## Open Issues
 
 How to deal with EditContext focus when the focused element itself is editable? In the current proposed model, the focused element doesn't receive things like composition events &mdash; should an editable element receive these? It feels like we should treat these the same as when the text input operations are redirected and not deliver those events to the editable element.

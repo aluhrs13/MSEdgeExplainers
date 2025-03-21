@@ -1,3 +1,10 @@
+---
+shortname: "Adding Response Metadata to Cache API Explainer"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Adding Response Metadata to Cache API Explainer
 
 Authors: [Aaron Gustafson](https://github.com/aarongustafson), [Jungkee Song](https://github.com/jungkees)

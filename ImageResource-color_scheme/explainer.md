@@ -1,3 +1,10 @@
+---
+shortname: "<code>ImageResource</code> Color Scheme Explainer"
+issue_tag: "ImageResource Color Scheme"
+status: "active"
+venue: "[W3C Web Applications Working Group](https://www.w3.org/2019/webapps/)"
+---
+
 # <code>ImageResource</code> Color Scheme Explainer
 
 Authors: [Aaron Gustafson](https://github.com/aarongustafson)

@@ -1,3 +1,10 @@
+---
+shortname: "Custom Dialog On Close"
+issue_tag: ""
+status: "withdrawn"
+venue: ""
+---
+
 # Custom Dialog On Close
 
 ## Authors:

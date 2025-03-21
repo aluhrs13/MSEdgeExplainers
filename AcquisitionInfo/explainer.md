@@ -1,3 +1,10 @@
+---
+shortname: "API for Acquisition Attribution of Web Apps"
+issue_tag: ""
+status: "active"
+venue: "[Microsoft Edge Explainers](https://github.com/MicrosoftEdge/MSEdgeExplainers)"
+---
+
 
 # API for Acquisition Attribution of Web Apps
 

@@ -1,3 +1,8 @@
+---
+shortname: "preserve-parent-color Explainer"
+status: "unlisted"
+---
+
 # preserve-parent-color Explainer 
 
 `preserve-parent-color` is a new value for the

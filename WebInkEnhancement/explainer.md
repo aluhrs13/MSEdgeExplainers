@@ -1,3 +1,10 @@
+---
+shortname: "Web Ink Enhancement: Delegated Ink Trail Presentation Aided By The OS"
+issue_tag: "WebInkEnhancement"
+status: "archived"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/) | [WICG/ink-enhancement](https://github.com/WICG/ink-enhancement) | ![GitHub issues](https://img.shields.io/github/issues/WICG/ink-enhancement)"
+---
+
 # Web Ink Enhancement: Delegated Ink Trail Presentation Aided By The OS
 
 Author: [Daniel Libby](https://github.com/dlibby-)

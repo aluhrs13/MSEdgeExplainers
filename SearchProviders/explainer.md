@@ -1,3 +1,10 @@
+---
+shortname: "Search Providers -- Reset default search provider to brand's recommended default search provider."
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Search Providers --- Reset default search provider to brand's recommended default search provider.
 
 ## Authors:

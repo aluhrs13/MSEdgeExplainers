@@ -1,3 +1,8 @@
+---
+shortname: "How to use the Include JavaScript Call Stacks In Crash Reports API"
+status: "unlisted"
+---
+
 # How to use the Include JavaScript Call Stacks In Crash Reports API
 
 Enabling JavaScript call stacks in crash reports from unresponsive pages can provide valuable insights into the state of your application at the time of a renderer crash, helping with debugging and improving stability. This feature is currently available in Chrome 125 and later behind a flag.

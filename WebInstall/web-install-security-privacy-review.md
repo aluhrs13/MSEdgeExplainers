@@ -1,3 +1,8 @@
+---
+shortname: "Self-Review Questionnaire: Security and Privacy"
+status: "unlisted"
+---
+
 # Self-Review Questionnaire: Security and Privacy
 
 ## Security and Privacy questionnaire for [`Web Install API`](aka.ms/webinstall)

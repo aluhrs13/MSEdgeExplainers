@@ -1,3 +1,10 @@
+---
+shortname: "Extending the PointerEvent with Unique DeviceId Attribute"
+issue_tag: ""
+status: "archived"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Extending the PointerEvent with Unique DeviceId Attribute
 
 Consider all sections required unless otherwise noted.

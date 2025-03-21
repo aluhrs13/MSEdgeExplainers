@@ -1,3 +1,10 @@
+---
+shortname: "Side Panel"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Applications Working"
+---
+
 # Side Panel
 
 ## Authors:

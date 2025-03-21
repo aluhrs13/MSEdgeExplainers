@@ -1,3 +1,8 @@
+---
+shortname: ""
+status: "unlisted"
+---
+
 (As authored originally by @stanleyhon)
 
 This has been created by cut-and-paste from https://w3ctag.github.io/security-questionnaire/, as requested in the TAG review instructions.

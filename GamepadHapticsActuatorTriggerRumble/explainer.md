@@ -1,3 +1,10 @@
+---
+shortname: "Gamepad Trigger-Rumble"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Applications Working Group](https://www.w3.org/2019/webapps/)"
+---
+
 # Gamepad Trigger-Rumble
 
 Authors: [Gabriel Brito](https://github.com/gabrielsanbrito), [Steve Becker](https://github.com/SteveBeckerMSFT), [Ben Mathwig](https://github.com/bmathwig)

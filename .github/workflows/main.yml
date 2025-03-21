@@ -12,5 +12,5 @@ jobs:
       - name: Frontmatter JSON Schema Validator
         uses: mheap/frontmatter-json-schema-action@main
         with:
-          paths: "**/*.md"
-          schema: '{"type":"object","properties":{"shortname":{"type":"string"},"status":{"type":"string"},"issue_tag":{"type":"string"},"venut":{"type":"string"}},"required":["shortname", "status"],"additionalProperties":true}'
+          paths: "**/!(README)!(CODE_OF_CONDUCT).md"
+          schema: '{"type":"object","properties":{"shortname":{"type":"string"},"status":{"type":"string"},"issue_tag":{"type":"string"},"venue":{"type":"string"}},"required":["shortname", "status"],"additionalProperties":true}'

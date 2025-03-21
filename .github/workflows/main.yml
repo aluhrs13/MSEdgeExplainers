@@ -1,0 +1,16 @@
+name: Frontmatter JSON Schema Validator
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+
+jobs:
+  frontmatter-json-schema-validator:
+    name: Frontmatter JSON Schema Validator
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Frontmatter JSON Schema Validator
+        uses: mheap/frontmatter-json-schema-action@main
+        with:
+          paths: "**/*explainer.md"
+          schema: '{"type":"object","properties":{"shortname":{"type":"string"},"status":{"type":"string"},"issue_tag":{"type":"string"},"venut":{"type":"string"}},"required":["shortname", "status"],"additionalProperties":true}'

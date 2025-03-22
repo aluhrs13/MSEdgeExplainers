@@ -1,3 +1,10 @@
+---
+shortname: "Delayed Clipboard Rendering"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 
 # Delayed Clipboard Rendering
 

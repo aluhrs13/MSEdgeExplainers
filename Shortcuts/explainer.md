@@ -1,3 +1,10 @@
+---
+shortname: "Shortcuts Explainer"
+issue_tag: "Shortcuts"
+status: "archived"
+venue: "[W3C Web Applications Working Group](https://www.w3.org/2019/webapps/) | [w3c/manifest](https://github.com/w3c/manifest/) | ![GitHub issues](https://img.shields.io/github/issues/w3c/manifest)"
+---
+
 # Shortcuts Explainer
 
 Authors:

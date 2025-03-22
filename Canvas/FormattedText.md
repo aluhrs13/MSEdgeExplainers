@@ -1,3 +1,10 @@
+---
+shortname: "Status of this Document"
+issue_tag: ""
+status: "archived"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 Formatted Text
 =============
 

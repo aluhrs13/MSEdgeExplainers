@@ -1,10 +1,7 @@
 ---
-name: pen-action
-about: new issue
-title: "[pen-action] <TITLE HERE>"
+name: pen-action Explainer
+about: Issues for pen-action Explainer
+title: "[pen-action Explainer] <TITLE HERE>"
 labels: Pen Action
-assignees: BoCupp-Microsoft
 
 ---
-
-

@@ -1,3 +1,10 @@
+---
+shortname: "A HapticsDevice API for the Web"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # A HapticsDevice API for the Web
 
 Consider all sections required unless otherwise noted.

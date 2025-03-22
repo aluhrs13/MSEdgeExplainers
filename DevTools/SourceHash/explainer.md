@@ -1,3 +1,10 @@
+---
+shortname: "Source Hashes in Stack Traces"
+issue_tag: ""
+status: "archived"
+venue: ""
+---
+
 # Source Hashes in Stack Traces
 
 Authors: [Rob Paveza](https://github.com/robpaveza)

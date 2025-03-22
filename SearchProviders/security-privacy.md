@@ -1,3 +1,8 @@
+---
+shortname: "Early Self-Review Questionnaire: Security and Privacy"
+status: "unlisted"
+---
+
 # Early Self-Review Questionnaire: Security and Privacy
 
 ## Security and Privacy questionnaire for [explainer](explainer.md)

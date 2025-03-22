@@ -1,3 +1,10 @@
+---
+shortname: "Web Install API"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Applications Working Group](https://www.w3.org/groups/wg/webapps/)"
+---
+
 # **Web Install API**
 Authors: [Diego Gonzalez](https://github.com/diekus)
 

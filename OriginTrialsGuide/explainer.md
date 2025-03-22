@@ -1,3 +1,8 @@
+---
+shortname: "Microsoft Edge Origin Trials Guide"
+status: "unlisted"
+---
+
 # Microsoft Edge Origin Trials Guide
 
 Author: Zouhir Chahoud

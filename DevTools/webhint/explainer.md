@@ -1,3 +1,10 @@
+---
+shortname: "DevTools: webhint integration in Issues"
+issue_tag: ""
+status: "archived"
+venue: ""
+---
+
 # DevTools: webhint integration in Issues
 
 ## Status of this Document

@@ -1,3 +1,10 @@
+---
+shortname: "Writingsuggestions attribute to control UA-provided writing assistance"
+issue_tag: ""
+status: "archived"
+venue: "[WHATWG](https://whatwg.org/) | [whatwg/html](https://github.com/whatwg/html)"
+---
+
 # Writingsuggestions attribute to control UA-provided writing assistance
 
 Consider all sections required unless otherwise noted.

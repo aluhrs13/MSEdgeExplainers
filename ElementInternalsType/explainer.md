@@ -1,3 +1,8 @@
+---
+shortname: "ElementInternals.type"
+status: "unlisted"
+---
+
 # ElementInternals.type
 
 ## Authors:

@@ -1,3 +1,8 @@
+---
+shortname: "HTML Modules Design Document"
+status: "unlisted"
+---
+
 # HTML Modules Design Document
 
 ## Contact emails

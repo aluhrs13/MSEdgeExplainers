@@ -1,3 +1,10 @@
+---
+shortname: "Digital Goods API For Microsoft Store PWA Explainer"
+issue_tag: ""
+status: "active"
+venue: "[Microsoft Edge Explainers](https://github.com/MicrosoftEdge/MSEdgeExplainers)"
+---
+
 # Digital Goods API For Microsoft Store PWA Explainer
 
 Author: [Runyuan Ye](https://github.com/runyuany)

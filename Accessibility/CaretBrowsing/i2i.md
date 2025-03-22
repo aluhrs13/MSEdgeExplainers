@@ -1,3 +1,8 @@
+---
+shortname: "Intent to Implement: Native Caret Browsing"
+status: "unlisted"
+---
+
 # Intent to Implement: Native Caret Browsing
 
 

@@ -1,3 +1,8 @@
+---
+shortname: "Examples"
+status: "unlisted"
+---
+
 # Examples
 
 ### Example 1

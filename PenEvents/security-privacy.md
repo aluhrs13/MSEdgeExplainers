@@ -1,3 +1,8 @@
+---
+shortname: "[Self-Review Questionnaire: Security and Privacy](https://w3ctag.github.io/security-questionnaire/)"
+status: "unlisted"
+---
+
 # [Self-Review Questionnaire: Security and Privacy](https://w3ctag.github.io/security-questionnaire/)
 
 ## Questions to Consider:

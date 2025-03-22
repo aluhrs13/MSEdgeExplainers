@@ -1,3 +1,8 @@
+---
+shortname: "Frame Timing Use Cases"
+status: "unlisted"
+---
+
 # Frame Timing Use Cases
 The purpose of this document is to describe use cases which may be relevant to the [Frame Timing API](https://wicg.github.io/frame-timing/).
 

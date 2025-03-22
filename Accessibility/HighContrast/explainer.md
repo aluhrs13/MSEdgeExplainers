@@ -1,3 +1,10 @@
+---
+shortname: "High Contrast Explainer"
+issue_tag: "High Contrast"
+status: "archived"
+venue: "[W3C CSS Working Group](https://www.w3.org/Style/CSS/) | [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts)"
+---
+
 # High Contrast Explainer
 
 Authors: [Rossen Atanassov](https://github.com/atanassov), [Alison Maher](https://github.com/amaher23)

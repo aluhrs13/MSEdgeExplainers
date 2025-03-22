@@ -1,3 +1,8 @@
+---
+shortname: "End User Defined Characters (EUDC): Explainer"
+status: "unlisted"
+---
+
 # End User Defined Characters (EUDC): Explainer
 ## Introduction
 

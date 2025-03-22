@@ -1,3 +1,10 @@
+---
+shortname: "CSS Gap Decorations"
+issue_tag: "CSSGapDecorations"
+status: "active"
+venue: "[CSS Working Group](https://www.w3.org/Style/CSS/)"
+---
+
 # CSS Gap Decorations
 
 ## Authors

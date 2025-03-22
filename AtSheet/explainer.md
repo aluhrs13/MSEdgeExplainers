@@ -1,3 +1,10 @@
+---
+shortname: "@sheet"
+issue_tag: "AtSheet"
+status: "active"
+venue: "[CSS Working Group](https://www.w3.org/Style/CSS/)"
+---
+
 # `@sheet`
 
 ## Authors:

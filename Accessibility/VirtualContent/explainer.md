@@ -1,3 +1,10 @@
+---
+shortname: "ARIA Virtual Content"
+issue_tag: "Virtual Content"
+status: "archived"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # ARIA Virtual Content
 
 Author: [Kevin Babbitt](https://github.com/kbabbitt), [Melanie Richards](https://github.com/melanierichards)

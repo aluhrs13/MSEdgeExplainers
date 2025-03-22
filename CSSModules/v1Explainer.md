@@ -1,3 +1,10 @@
+---
+shortname: "CSS Modules V1 Explainer"
+issue_tag: ""
+status: "archived"
+venue: "[Web Components Incubator of the W3C Web Applications Working Group and WHATWG HTML and DOM Workstreams](https://github.com/w3c/webcomponents/) | [w3c/webcomponents](https://github.com/w3c/webcomponents/) | ![GitHub issues by-label](https://img.shields.io/github/issues/w3c/webcomponents/modules)"
+---
+
 # CSS Modules V1 Explainer
 
 Author: [@dandclark](https://github.com/dandclark)

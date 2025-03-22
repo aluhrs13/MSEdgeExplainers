@@ -1,3 +1,10 @@
+---
+shortname: "Set and Reset Clip()"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Set and Reset Clip()
 
 Authors:

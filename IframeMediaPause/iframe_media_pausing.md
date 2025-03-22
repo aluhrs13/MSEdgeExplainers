@@ -1,3 +1,10 @@
+---
+shortname: "Pausing iframe media when not visible"
+issue_tag: ""
+status: "active"
+venue: "[Web Hypertext Application Technology Working Group (WHATWG)](https://whatwg.org/)"
+---
+
 # Pausing iframe media when not visible
 
 Authors: [Gabriel Brito](https://github.com/gabrielsanbrito), [Steve Becker](https://github.com/SteveBeckerMSFT), [Sunggook Chue](https://github.com/sunggook), Ravikiran Ramachandra

@@ -1,3 +1,10 @@
+---
+shortname: "Issuer Redemption Statistics"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/) / [trust-token-api](https://github.com/WICG/trust-token-api)"
+---
+
 # Issuer Redemption Statistics
 
 Authors: [Brandon Maslen](https://github.com/Brandr0id), [Erik Anderson](https://github.com/erik-anderson)

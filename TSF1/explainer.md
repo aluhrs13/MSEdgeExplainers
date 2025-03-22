@@ -1,3 +1,8 @@
+---
+shortname: "Streamlining Text Input for Touch Keyboards & IMEs with TSF 1.0"
+status: "unlisted"
+---
+
 # Streamlining Text Input for Touch Keyboards & IMEs with TSF 1.0
 
 ## Motivation:

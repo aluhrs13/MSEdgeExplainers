@@ -1,3 +1,10 @@
+---
+shortname: "EditContext API Explainer"
+issue_tag: "EditContext"
+status: "archived"
+venue: "[W3C Editing Task Force](https://w3c.github.io/editing/) | [w3c/editing](https://github.com/w3c/editing/)"
+---
+
 # EditContext API Explainer
 
 ## Status of this Document

@@ -1,3 +1,10 @@
+---
+shortname: "Storage Access API Explainer"
+issue_tag: "Storage Access API"
+status: "active"
+venue: "[W3C Privacy Community Group](https://privacycg.github.io/)"
+---
+
 # Storage Access API Explainer
 
 ## Status of this Document

@@ -1,3 +1,8 @@
+---
+shortname: "EyeDropper API Security and Privacy Review"
+status: "unlisted"
+---
+
 # EyeDropper API Security and Privacy Review
 
 The following document contains answers to the [Self-Review Security and Privacy Questionnaire](https://www.w3.org/TR/security-privacy-questionnaire/).

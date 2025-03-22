@@ -1,3 +1,8 @@
+---
+shortname: "Focusgroup - Security and privacy review"
+status: "unlisted"
+---
+
 # Focusgroup - Security and privacy review
 ## 2.1. What information might this feature expose to Web sites or other parties, and for what purposes is that exposure necessary?
 No additional information will be exposed to Web sites or other partis by this feature.

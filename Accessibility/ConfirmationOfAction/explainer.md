@@ -1,3 +1,10 @@
+---
+shortname: "Confirmation of Action"
+issue_tag: ""
+status: "archived"
+venue: "[AOM](https://wicg.github.io/aom/) within the [W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Confirmation of Action
 
 Authors: [Travis Leithead](https://github.com/travisleithead), [Daniel Libby](https://github.com/dlibby-)

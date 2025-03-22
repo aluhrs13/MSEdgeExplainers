@@ -1,3 +1,10 @@
+---
+shortname: "System Status Icons for Installed desktop Web Apps"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Applications Working Group](https://www.w3.org/groups/wg/webapps/)"
+---
+
 # **System Status Icons for Installed desktop Web Apps**
 
 Authors: [Diego Gonzalez](https://github.com/diekus), [Jenna Sasson](https://github.com/jennasasson_microsoft)

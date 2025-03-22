@@ -1,3 +1,10 @@
+---
+shortname: "Virtual Keyboard API"
+issue_tag: ""
+status: "archived"
+venue: "[W3C Web Editing Working Group](https://w3c.github.io/editing/)"
+---
+
 # Virtual Keyboard API
 
 Authors: [Daniel Libby](https://github.com/dlibby-), [Zouhir Chahoud](https://github.com/Zouhir), [Bo Cupp](https://github.com/BoCupp-Microsoft)

@@ -1,3 +1,10 @@
+---
+shortname: "CSS color-mix() function"
+issue_tag: ""
+status: "active"
+venue: "[CSSWG](https://drafts.csswg.org/)"
+---
+
 # CSS color-mix() function
 
 ## Status of this Document

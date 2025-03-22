@@ -1,3 +1,10 @@
+---
+shortname: "Search the Console for Errors"
+issue_tag: ""
+status: "archived"
+venue: ""
+---
+
 # Search the Console for Errors
 
 Authors: [Erica Draud](https://github.com/erdraud)

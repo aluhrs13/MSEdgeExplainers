@@ -1,3 +1,8 @@
+---
+shortname: "Template Ideas"
+status: "unlisted"
+---
+
 # Template Ideas
 
 This is an investigation of templating options for widgets. Adaptive Cards seems like a potential way this could be done in an open source way. Will consider other options too.

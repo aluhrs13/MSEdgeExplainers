@@ -1,3 +1,8 @@
+---
+shortname: "Enable Hardware-offloaded Audio Processing for Audio Content on Windows"
+status: "unlisted"
+---
+
 # Enable Hardware-offloaded Audio Processing for Audio Content on Windows
 **Author:** William Carr (drawn on work from Isuru Pathirana)
 

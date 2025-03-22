@@ -1,3 +1,10 @@
+---
+shortname: "Ambient Pen Events API Explainer"
+issue_tag: "Pen Events"
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Ambient Pen Events API Explainer
 
 ## Status of this Document

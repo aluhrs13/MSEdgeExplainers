@@ -1,3 +1,8 @@
+---
+shortname: "Developer Design"
+status: "unlisted"
+---
+
 # Developer Design
 
 ![shared text](shared_text_basic.png)

@@ -1,3 +1,8 @@
+---
+shortname: "prefers-contrast Explainer"
+status: "unlisted"
+---
+
 # prefers-contrast Explainer 
 
 The [`prefers-contrast` media query](https://drafts.csswg.org/mediaqueries-5/#prefers-contrast) gives authors a way to determine whether the user has specified a desire for increased or decreased contrast in the underlying OS. 

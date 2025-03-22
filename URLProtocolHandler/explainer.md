@@ -1,3 +1,10 @@
+---
+shortname: "URL Protocol Handler Registration for PWAs"
+issue_tag: ""
+status: "active"
+venue: "[Web Applications Working Group](https://www.w3.org/2019/webapps/)"
+---
+
 # URL Protocol Handler Registration for PWAs
 
 ## Table of Contents

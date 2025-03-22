@@ -1,3 +1,10 @@
+---
+shortname: "Prompt for Rating/Review Explainer"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Prompt for Rating/Review Explainer
 
 Consider all sections required unless otherwise noted.

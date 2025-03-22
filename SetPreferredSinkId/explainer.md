@@ -1,3 +1,10 @@
+---
+shortname: "Set Preferred Audio Output Device"
+issue_tag: ""
+status: "active"
+venue: "[WebRTC WG](https://www.w3.org/groups/wg/webrtc)"
+---
+
 # Set Preferred Audio Output Device
 
 Authors: Sunggook Chue, Ravikiran Ramachandra, Steve Becker, Andy Luhrs

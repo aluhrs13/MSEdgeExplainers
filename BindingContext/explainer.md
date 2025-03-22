@@ -1,3 +1,10 @@
+---
+shortname: "Demonstrating Proof-of-Possession in the Browser Application (BPoP)"
+issue_tag: ""
+status: "active"
+venue: "to be determined"
+---
+
 # Demonstrating Proof-of-Possession in the Browser Application (BPoP)
 
 ## Table of Contents

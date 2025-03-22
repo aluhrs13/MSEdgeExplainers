@@ -1,3 +1,8 @@
+---
+shortname: "UI Automation Provider Mappings Explainer"
+status: "unlisted"
+---
+
 # UI Automation Provider Mappings Explainer
 
 Authors: [Rossen Atanassov](https://github.com/atanassov), [Melanie Richards](https://github.com/melanierichards)

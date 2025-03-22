@@ -1,3 +1,8 @@
+---
+shortname: "Tagged PDFs support in Chromium – Explainer"
+status: "unlisted"
+---
+
 # Tagged PDFs support in Chromium – Explainer
 
 Authors: [Vyankatesh Gadekar](https://github.com/vrgadekar), [Mohit Bansal](https://github.com/bansal-mohit)

@@ -1,3 +1,10 @@
+---
+shortname: "focusgroup for HTML and CSS"
+issue_tag: ""
+status: "archived"
+venue: "[Open UI Community Group](https://www.w3.org/community/open-ui/)"
+---
+
 # focusgroup for HTML and CSS
 > Now with 100% more Style[sheet support]!
 

@@ -1,3 +1,8 @@
+---
+shortname: "IndexedDB: getAllRecords()"
+status: "unlisted"
+---
+
 # IndexedDB: getAllRecords()
 
 ## Author:

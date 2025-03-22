@@ -1,3 +1,10 @@
+---
+shortname: "HTML Attribute to Allow/Disallow Handwriting Input (i.e., ink to text)"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/), [WHATWG HTML](https://html.spec.whatwg.org)"
+---
+
 # HTML Attribute to Allow/Disallow Handwriting Input (i.e., "ink to text")
 
 # Outdated

@@ -1,3 +1,8 @@
+---
+shortname: "Security and Privacy Questionnaire for CSS Gap Decorations"
+status: "unlisted"
+---
+
 # Security and Privacy Questionnaire for CSS Gap Decorations
 
 https://www.w3.org/TR/security-privacy-questionnaire/#questions

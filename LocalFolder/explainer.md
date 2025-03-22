@@ -1,3 +1,10 @@
+---
+shortname: "ApplicationData.LocalFolder Access From Microsoft Store PWA"
+issue_tag: ""
+status: "active"
+venue: "[Microsoft Edge Explainers](https://github.com/MicrosoftEdge/MSEdgeExplainers)"
+---
+
 # ApplicationData.LocalFolder Access From Microsoft Store PWA 
 
 Author: [Lu Huang](https://github.com/luhuangMSFT)

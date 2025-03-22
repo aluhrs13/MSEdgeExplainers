@@ -1,3 +1,10 @@
+---
+shortname: "Bootstrap Scripts"
+issue_tag: ""
+status: "archived"
+venue: "[WebDriver incubator of the W3C Browser Testing and Tools Working Group](https://github.com/w3c/webdriver/blob/master/README.md)"
+---
+
 # Bootstrap Scripts
 
 ## Status of this Document

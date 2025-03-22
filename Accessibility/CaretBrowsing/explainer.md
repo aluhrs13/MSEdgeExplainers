@@ -1,3 +1,8 @@
+---
+shortname: "Proposal: Native Caret browsing"
+status: "unlisted"
+---
+
 # Proposal: Native Caret browsing
 
 ## Motivation:

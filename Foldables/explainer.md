@@ -1,3 +1,10 @@
+---
+shortname: "Web Platform Primitives for Enlightened Experiences on Foldable Devices"
+issue_tag: ""
+status: "active (css primitives for dual screen layouts)"
+venue: "[W3C CSS Working Group](https://www.w3.org/Style/CSS/)"
+---
+
 # Web Platform Primitives for Enlightened Experiences on Foldable Devices
 
 Authors: [Bogdan Brinza](https://github.com/boggydigital), [Daniel Libby](https://github.com/dlibby-), [Zouhir Chahoud](https://github.com/Zouhir)

@@ -1,3 +1,8 @@
+---
+shortname: "Intent to Implement: HTML Modules"
+status: "unlisted"
+---
+
 # Intent to Implement: HTML Modules
 
 ## Contact emails

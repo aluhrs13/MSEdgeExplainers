@@ -1,3 +1,8 @@
+---
+shortname: "Enterprise Platform Authentication Broker API"
+status: "unlisted"
+---
+
 # Enterprise Platform Authentication Broker API
  
 Authors: [Linping Zhang](https://github.com/coder-linping), Petar Dimov

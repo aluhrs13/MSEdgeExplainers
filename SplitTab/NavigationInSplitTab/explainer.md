@@ -1,3 +1,10 @@
+---
+shortname: "Allow target navigation at split tab"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Allow target navigation at split tab
 Authors: [XU Zhengyi](mailto:zhengyixu@microsoft.com)
 

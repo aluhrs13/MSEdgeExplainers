@@ -1,3 +1,8 @@
+---
+shortname: ""
+status: "unlisted"
+---
+
 This has been created by cut-and-paste from https://w3ctag.github.io/security-questionnaire/, as requested in the TAG review instructions.
 
 1. What information might this feature expose to Web sites or other parties, and for what purposes is that exposure necessary?

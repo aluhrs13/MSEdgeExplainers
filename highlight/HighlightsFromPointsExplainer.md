@@ -1,3 +1,10 @@
+---
+shortname: "HighlightsFromPoint API Explainer"
+issue_tag: "HighlightEvents"
+status: "active"
+venue: "[W3C CSS Working Group](https://www.w3.org/Style/CSS/)"
+---
+
 # HighlightsFromPoint API Explainer
 
 Authors: [Stephanie Zhang](https://github.com/stephanieyzhang), [Sanket Joshi](https://github.com/sanketj), [Fernando Fiori](https://github.com/ffiori)

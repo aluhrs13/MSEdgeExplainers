@@ -1,3 +1,10 @@
+---
+shortname: "Enabling Custom Control UI"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Enabling Custom Control UI
 
 Authors:

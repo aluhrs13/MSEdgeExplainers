@@ -1,3 +1,10 @@
+---
+shortname: "Enabling Web applications to understand performance navigation timings during protocol launches."
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Enabling Web applications to understand performance navigation timings during protocol launches.
 
 Authors: 

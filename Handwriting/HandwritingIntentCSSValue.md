@@ -1,3 +1,10 @@
+---
+shortname: "CSS Property to Allow/Disallow Handwriting Input (i.e., ink to text)"
+issue_tag: ""
+status: "active"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/), [Pointer Events Working Group](https://w3c.github.io/pointerevents/)"
+---
+
 # CSS Property to Allow/Disallow Handwriting Input (i.e., "ink to text")
 
 

@@ -1,3 +1,10 @@
+---
+shortname: "Edit Client Hint headers"
+issue_tag: ""
+status: "archived"
+venue: ""
+---
+
 # Edit Client Hint headers 
 
 Authors: [Erica Draud](https://github.com/erdraud)

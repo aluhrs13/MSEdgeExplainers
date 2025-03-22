@@ -1,3 +1,8 @@
+---
+shortname: "Intent to Implement and Ship: UIAutomation Provider Mappings"
+status: "unlisted"
+---
+
 # Intent to Implement and Ship: UIAutomation Provider Mappings
 
 ## Contact emails

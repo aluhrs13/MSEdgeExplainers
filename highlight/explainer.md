@@ -1,3 +1,10 @@
+---
+shortname: "Highlight API Explained"
+issue_tag: "Highlight API"
+status: "archived"
+venue: "[W3C CSS Working Group](https://www.w3.org/Style/CSS/) | [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) | ![GitHub issues by-label](https://img.shields.io/github/issues/w3c/csswg-drafts/css-highlight-api-1)"
+---
+
 # Highlight API Explained
 
 ## Status of this Document

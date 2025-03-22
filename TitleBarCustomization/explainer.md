@@ -1,3 +1,10 @@
+---
+shortname: "Window Controls Overlay for Installed Desktop Web Apps"
+issue_tag: ""
+status: "archived"
+venue: "[W3C Web Incubator Community Group](https://wicg.io/)"
+---
+
 # Window Controls Overlay for Installed Desktop Web Apps
 
 ## Status of this Document

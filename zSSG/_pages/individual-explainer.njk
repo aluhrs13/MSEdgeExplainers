@@ -7,7 +7,7 @@ permalink: "{{ explainer.url }}"
 layout: layouts/explainer.njk
 ---
 
-<a href="/" class="back-link">← Back to All Explainers</a>
+<a href="javascript:history.back()" class="back-link">← Back to Previous Page</a>
 
 <main>
   {{ explainer.renderedContent | safe }}

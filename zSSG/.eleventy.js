@@ -37,7 +37,7 @@ module.exports = function(eleventyConfig) {
             },
             content: parsed.content,
             renderedContent: md.render(parsed.content),
-            url: `/${folderName}/`,
+            url: `${folderName}/`,
             inputPath: filePath,
             outputPath: `_site/${folderName}/index.html`,
             fileSlug: folderName,

@@ -4,6 +4,7 @@ title: Animation Smoothness
 label: AnimationSmoothness
 owner: jenna-sasson
 venue: Web Perf
+lastEdit: 2025-05-28
 ---
 
 # A More Precise Way to Measure Animation Smoothness

@@ -4,6 +4,7 @@ title: Opt-In Event Phases For Reliably Fast DOM Operations
 label: EventPhases 
 owner: slightlyoff
 venue: Web Perf
+lastEdit: 2025-05-08
 ---
 
 # Opt-In Event Phases For Reliably Fast DOM Operations

@@ -1,3 +1,12 @@
+---
+tags: explainer, active
+title: CSS ::tooltip Pseudo Element
+label: CSSTooltipPseudo
+owner: alisonmaher
+venue: CSS
+lastEdit: 2025-05-28
+---
+
 # CSS ::tooltip Pseudo Element
 
 ## Authors

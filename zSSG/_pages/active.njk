@@ -1,0 +1,129 @@
+---
+title: Active Microsoft Edge Explainers
+layout: layouts/explainer.njk
+permalink: /
+---
+
+<header>
+  <h1>{{ title }}</h1>
+</header>
+
+
+    <main>
+      Explainers are documents focused on describing a user/ developer/ customer problem (at a high level) and exploring
+      potential solutions. These documents are starting points for engaging in discussion with you and other members of
+      the community. Explainers should address their stated problems in clear and easy to understand language. Proposed
+      solutions should be easy to follow and not too deep in technical details. When you read an explainer, we hope the
+      stated problem is compelling and you can form an opinion for whether the proposed solution would address the
+      problem.
+
+      <h3>Please provide feedback</h3>
+      We are looking for feedback! Are the stated problems relevant to you? How have they impacted your experience? Do
+      the proposed solutions seem reasonable? Do they follow good web principles? Would they solve a problem you
+      currently have? (We love to hear that; tell us more about your scenario!) Do you have related use-cases we hadn't
+      considered?
+
+      We appreciate you taking the time to offer feedback; it helps to improve the explainers, validate the problem and
+      solutions they describe, and show evidence that there is potential momentum to move an idea to the next stage. We
+      desire to see all our explainers make the journey to become cross-browser supported web standards.
+
+      Start a new issue here, or join in the discussion on existing issues. We also welcome PRs on the explainer
+      documents themselves. Note: we use labels to filter the issues to specific explainers.
+
+      <h3>Have a product bug?</h3>
+      If you're looking to file a product bug on Microsoft Edge and the bug is unique to Edge, please use the in-browser
+      "Send Feedback" tool (Alt+Shift+i in Windows, or "..." > "Help and feedback"). If the bug reproduces in another
+      Chromium-based browser, please file the issue upstream in the Chromium bug database. Thanks!
+
+      <h2>Active 📣</h2>
+      <p>These are the proposals we are currently investigating in this repo. Use the links below to read the
+        explainers, review the current issues, and file new issues specifically for the given explainer(s). We hope they
+        will all "graduate" and begin their journey along the standards-track as they gain sufficient interest; each
+        explainer has a "status of this document" section that indicates what standards venue they expect to go to next
+        (if known). When they graduate, we move them into the <a href="alumni">alumni section</a>.</p>
+      <table class="explainer-table">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th class="no-sort">Issues</th>
+            <th class="no-sort">Feedback</th>
+            <th>Group</th>
+            <th>Last Edit</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for explainer in collections.explainers -%}
+          {%- if "active" in explainer.data.tags -%}
+          <tr>
+            <td>
+              <a href="{{ explainer.url }}" class="explainer-title">{{ explainer.data.title }}</a>
+            </td>
+            <td>
+              <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/labels/{{explainer.data.label}}">
+                <img
+                  src="https://img.shields.io/github/issues/MicrosoftEdge/MSEdgeExplainers/{{explainer.data.label}}?label=issues" />
+              </a>
+            </td>
+            <td>
+              <a
+                href="https://github.com/MicrosoftEdge/MSEdgeExplainers/issues/new?assignees={{explainer.data.owner}}&labels={{explainer.data.label}}&title=%5B{{explainer.data.label}}%5D+%3CTITLE+HERE%3E">
+                New Issue
+              </a>
+            </td>
+            <td>
+              {{ explainer.data.venue or "TBD" }}
+            </td>
+            <td>
+                {{ explainer.data.lastEditDate }}
+            </td>
+          </tr>
+          {%- endif -%}
+          {%- endfor -%}
+        </tbody>
+      </table>
+      <h2>Brainstorming 🧠</h2>
+      <p>These are proposals that are still really early in their lifecycle. We might just be thinking about the
+        problems, starting to get rough ideas of what solutions might look like, or just want to throw an idea out to
+        the world to see if there's more people with similar problems. Once we get a handle on the possible solutions
+        and directions we'll move these to the "Active Explainers" section above.</p>
+      <table class="explainer-table">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th class="no-sort">Issues</th>
+            <th class="no-sort">Feedback</th>
+            <th>Group</th>
+            <th>Last Edit</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for explainer in collections.explainers -%}
+          {%- if "brainstorming" in explainer.data.tags -%}
+          <tr>
+            <td>
+              <a href="{{ explainer.url }}" class="explainer-title">{{ explainer.data.title }}</a>
+            </td>
+            <td>
+              <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/labels/{{explainer.data.label}}">
+                <img
+                  src="https://img.shields.io/github/issues/MicrosoftEdge/MSEdgeExplainers/{{explainer.data.label}}?label=issues" />
+              </a>
+            </td>
+            <td>
+              <a
+                href="https://github.com/MicrosoftEdge/MSEdgeExplainers/issues/new?assignees={{explainer.data.owner}}&labels={{explainer.data.label}}&title=%5B{{explainer.data.label}}%5D+%3CTITLE+HERE%3E">
+                New Issue
+              </a>
+            </td>
+            <td>
+              {{ explainer.data.venue or "TBD" }}
+            </td>
+            <td>
+                {{ explainer.data.lastEditDate }}
+            </td>
+          </tr>
+          {%- endif -%}
+          {%- endfor -%}
+        </tbody>
+      </table>
+    </main>

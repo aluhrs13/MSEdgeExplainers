@@ -1,12 +1,181 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ explainer.data.title or title }} - Microsoft Edge Explainers</title>
-    <link rel="stylesheet" href="_includes/shared.css">
-  </head>
-  <body>
-    {{ content | safe }}
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ explainer.data.title or title }} - Microsoft Edge Explainers</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      line-height: 1.6;
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    code {
+      background: #f4f4f4;
+      padding: 0.2rem 0.4rem;
+      font-family: monospace;
+    }
+
+    pre {
+      background: #f8f9fa;
+      padding: 1rem;
+      overflow-x: auto;
+    }
+
+    pre code {
+      background: none;
+      padding: 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0;
+    }
+
+    th,
+    td {
+      border: 1px solid #ddd;
+      padding: 0.8rem;
+      text-align: left;
+    }    th {
+      background: #f5f5f5;
+    }
+
+    /* Sortable table styles */
+    .explainer-table th {
+      cursor: pointer;
+      user-select: none;
+      position: relative;
+      padding-right: 2rem;
+    }
+
+    .explainer-table th:hover {
+      background: #e8e8e8;
+    }
+
+    .explainer-table th::after {
+      content: '↕️';
+      position: absolute;
+      right: 0.5rem;
+      top: 50%;
+      transform: translateY(-50%);
+      opacity: 0.5;
+      font-size: 0.8em;
+    }
+
+    .explainer-table th.sort-asc::after {
+      content: '⬆️';
+      opacity: 1;
+    }
+
+    .explainer-table th.sort-desc::after {
+      content: '⬇️';
+      opacity: 1;
+    }
+
+    .explainer-table th.no-sort {
+      cursor: default;
+      padding-right: 0.8rem;
+    }
+
+    .explainer-table th.no-sort::after {
+      display: none;
+    }
+    .row{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+      width: 100%;
+      background-color: #d6d6d6;
+      align-items: baseline;
+      padding: 8px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+
+<body>
+  {{ content | safe }}
+
+  <script>
+    // Table sorting functionality for tables with class 'explainer-table'
+    document.addEventListener('DOMContentLoaded', function() {
+      const tables = document.querySelectorAll('.explainer-table');
+      
+      tables.forEach(table => {
+        const headers = table.querySelectorAll('th:not(.no-sort)');
+        
+        headers.forEach((header, index) => {
+          header.addEventListener('click', () => {
+            sortTable(table, index);
+          });
+        });
+      });
+      
+      function sortTable(table, columnIndex) {
+        const tbody = table.querySelector('tbody') || table;
+        const rows = Array.from(tbody.querySelectorAll('tr')).slice(table.querySelector('thead') ? 0 : 1);
+        const header = table.querySelectorAll('th')[columnIndex];
+          // Determine sort direction before removing classes
+        const currentlyAsc = header.classList.contains('sort-asc');
+        const currentlyDesc = header.classList.contains('sort-desc');
+        const isAsc = !currentlyAsc; // If not currently ascending, make it ascending
+        
+        // Remove existing sort classes from all headers
+        table.querySelectorAll('th').forEach(th => {
+          th.classList.remove('sort-asc', 'sort-desc');
+        });
+        
+        // Add the new sort direction
+        const direction = isAsc ? 'sort-asc' : 'sort-desc';
+        header.classList.add(direction);
+        
+        // Sort rows
+        rows.sort((a, b) => {
+          const aValue = getCellValue(a, columnIndex);
+          const bValue = getCellValue(b, columnIndex);
+          
+          // Try to parse as numbers first
+          const aNum = parseFloat(aValue);
+          const bNum = parseFloat(bValue);
+          
+          if (!isNaN(aNum) && !isNaN(bNum)) {
+            return isAsc ? aNum - bNum : bNum - aNum;
+          }
+          
+          // Fallback to string comparison
+          return isAsc 
+            ? aValue.localeCompare(bValue, undefined, { numeric: true })
+            : bValue.localeCompare(aValue, undefined, { numeric: true });
+        });
+        
+        // Reorder rows in the table
+        const parent = rows[0].parentNode;
+        rows.forEach(row => parent.appendChild(row));
+      }
+      
+      function getCellValue(row, columnIndex) {
+        const cell = row.cells[columnIndex];
+        return cell ? cell.textContent.trim() : '';
+      }
+    });
+  </script>
+</body>
+
 </html>

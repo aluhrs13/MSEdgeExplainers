@@ -4,6 +4,7 @@ title: Materials in Web Applications
 label: Materials 
 owner: diekus
 venue: Web Apps
+lastEdit: 2025-04-08
 ---
 
 # Materials in Web Applications

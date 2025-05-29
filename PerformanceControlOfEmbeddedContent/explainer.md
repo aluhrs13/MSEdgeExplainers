@@ -4,6 +4,7 @@ title: Performance Control of Embedded Content
 label: PerformanceControlOfEmbeddedContent 
 owner: nishitha-burman
 venue: Web Perf
+lastEdit: 2025-03-21
 ---
 
 # Performance control of embedded content

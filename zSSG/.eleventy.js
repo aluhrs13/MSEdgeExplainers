@@ -28,20 +28,23 @@ module.exports = function(eleventyConfig) {
         if (parsed.data.tags && parsed.data.tags.includes('explainer')) {
             const folderName = path.basename(path.dirname(filePath));
 
+            const fileName = path.basename(filePath, path.extname(filePath));
             const explainer = {
             data: {
-                title: parsed.data.title || folderName,
-                description: parsed.data.description || '',
-                tags: parsed.data.tags,
-                ...parsed.data
+              title: parsed.data.title || folderName,
+              description: parsed.data.description || '',
+              tags: parsed.data.tags,
+              lastEditDate: parsed.data.lastEdit ? parsed.data.lastEdit.toISOString().split('T')[0] : 'Unknown',
+              ...parsed.data
             },
             content: parsed.content,
             renderedContent: md.render(parsed.content),
             url: `${folderName}/`,
             inputPath: filePath,
-            outputPath: `_site/${folderName}/index.html`,
-            fileSlug: folderName,
-            filePathStem: `/${folderName}/index`
+            outputPath: `_site/${folderName}/${fileName}.html`,
+            fileSlug: fileName,
+            filePathStem: `/${folderName}/${fileName}`,
+            relativeFilePath: `https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/${folderName}/${fileName}${path.extname(filePath)}`,
             };
             
             explainers.push(explainer);
@@ -55,8 +58,7 @@ module.exports = function(eleventyConfig) {
   
   });
 
-  //TODO: Images
-  eleventyConfig.addPassthroughCopy("_includes/*.css");
+  //TODO: Images passthrough
   
   return {
     dir: {

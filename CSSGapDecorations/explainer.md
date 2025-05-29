@@ -1,3 +1,12 @@
+---
+tags: explainer, active
+title: CSS Gap Decorations
+label: CSSGapDecorations
+owner: kbabbitt
+venue: CSS
+lastEdit: 2025-05-05
+---
+
 # CSS Gap Decorations
 
 ## Authors

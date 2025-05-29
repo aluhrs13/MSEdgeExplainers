@@ -7,7 +7,14 @@ permalink: "{{ explainer.url }}"
 layout: layouts/explainer.njk
 ---
 
-<a href="javascript:history.back()" class="back-link">← Back to Previous Page</a>
+<div class="row">
+  <a href="/MSEdgeExplainers/" class="back-link">← Back to All Explainers</a>
+  <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/labels/{{explainer.data.label}}">
+    <img
+      src="https://img.shields.io/github/issues/MicrosoftEdge/MSEdgeExplainers/{{explainer.data.label}}?label=issues" />
+  </a>
+  <a href="{{explainer.relativeFilePath}}">View on GitHub</a>
+</div>
 
 <main>
   {{ explainer.renderedContent | safe }}

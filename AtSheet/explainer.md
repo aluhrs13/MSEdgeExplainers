@@ -1,3 +1,12 @@
+---
+tags: explainer, active
+title: Sheet at-rule
+label: AtSheet 
+owner: KurtCattiSchmidt
+venue: CSS
+lastEdit: 2025-04-18
+---
+
 # `@sheet`
 
 ## Authors:
